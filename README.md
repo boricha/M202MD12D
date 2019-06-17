@@ -42,10 +42,9 @@ This program is Main of Futaba M202MD12D(2x20) VFD Demo
  *
  *  Please note that this program does not use hardware flow control(No.1 RTS / No2. CTS) 
  *  only use No.4 RXD
-
+## Tada
+![alt text](https://github.com/boricha/M202MD12D/blob/master/src/tada.jpg)
 ## Pinout
 ![alt text](https://github.com/boricha/M202MD12D/blob/master/src/pinout.jpg)        
 ## Schematic
 ![alt text](https://github.com/boricha/M202MD12D/blob/master/schematic/schematic.jpg)
-## Remove Parts(Optional)
-![alt text](https://github.com/boricha/M202MD12D/blob/master/src/RemoveParts.jpg)
